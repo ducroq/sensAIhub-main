@@ -1,11 +1,13 @@
-.idea/**
-.vscode/**
 .venv/**
 __pycache__/**
 tmp/**
 secrets.ini
 *.json
 *.docx
+
+# Ignore the specific executable
+test
+test.exe
 
 # Prerequisites
 *.d
