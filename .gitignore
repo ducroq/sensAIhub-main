@@ -1,0 +1,8 @@
+.idea/**
+.vscode/**
+.venv/**
+__pycache__/**
+tmp/**
+secrets.ini
+*.json
+*.docx
